@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    },
+     "checkJs": false,  
+    "jsx": "react-jsx"
+  },
+  "exclude": ["node_modules"]
+  
+}
